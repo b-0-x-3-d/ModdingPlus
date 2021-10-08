@@ -15,7 +15,8 @@
     "PICO",
     "MOMMY MUST MURDER",
     "RED SNOW",
-    "hating simulator ft. moawling"
+    "hating simulator ft. moawling",
+    "TANKMAN"
   ],
   "characters": [
     ["dad", "bf", "gf"],
@@ -72,6 +73,16 @@
       "animation": "Week 6",
       "name": "hating simulator ft. moawling",
       "dad": "senpai"
+    },
+    {
+      "songs": [
+        "Ugh",
+        "Guns",
+        "Stress"
+      ],
+      "animation": "week7",
+      "name": "TANKMAN",
+      "dad": "tankman"
     }
 
   ],
